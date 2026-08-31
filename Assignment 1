@@ -1,0 +1,6 @@
+#Assignment 1 of Intro to programming
+
+output = "I, Daniel Johnston, have successfully installed and run a python program on my computer!"
+
+print(output)
+# empty line
